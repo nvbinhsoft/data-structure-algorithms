@@ -52,5 +52,5 @@ const myArray = new MyArray<string>();
 myArray.push('hi');
 myArray.push('you');
 myArray.push('!');
-myArray.delete(2);
+myArray.delete(1);
 myArray.print()
